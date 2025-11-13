@@ -13,9 +13,10 @@
 // divs[0].innerHTML = "changed text";
 // console.log(document.getElementById("parent").firstChild);
 const divss = document.getElementById("target")
+divss.tagName = "span"
 
-function xoa(){
-    const button = event.target
-    console.log(button)
-    button.parentElement.parentElement.remove()
-}
+// function xoa(){
+//     const button = event.target
+//     console.log(button)
+//     button.parentElement.parentElement.remove()
+// }
