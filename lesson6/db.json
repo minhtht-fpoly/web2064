@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": "4",
+      "hoTen": "Pham Quynh Anh",
+      "tuoi": 20,
+      "gioiTinh": "Nu",
+      "email": "anh.pham@example.com",
+      "lop": "IT03",
+      "diemTB": 9.1,
+      "trangThai": "dang_hoc"
+    },
+    {
+      "id": "5",
+      "hoTen": "Vo Tien Dung",
+      "tuoi": 22,
+      "gioiTinh": "Nam",
+      "email": "dung.vo@example.com",
+      "lop": "IT02",
+      "diemTB": 5.5,
+      "trangThai": "canh_bao_hoc_tap"
+    },
+    {
+      "id": "6",
+      "hoTen": "Nguyen Thi Lan",
+      "tuoi": 20,
+      "gioiTinh": "Nu",
+      "email": "lan.nguyen@example.com",
+      "lop": "IT01",
+      "diemTB": 7.2,
+      "trangThai": "dang_hoc"
+    },
+    {
+      "id": "7",
+      "hoTen": "Pham Minh Tu",
+      "tuoi": 19,
+      "gioiTinh": "Nam",
+      "email": "tu.pham@example.com",
+      "lop": "IT03",
+      "diemTB": 8.7,
+      "trangThai": "dang_hoc"
+    },
+    {
+      "id": "8",
+      "hoTen": "Do Hong Ngoc",
+      "tuoi": 21,
+      "gioiTinh": "Nu",
+      "email": "ngoc.do@example.com",
+      "lop": "IT02",
+      "diemTB": 6.3,
+      "trangThai": "dang_hoc"
+    },
+    {
+      "id": "9",
+      "hoTen": "Tran Tan Phat",
+      "tuoi": 23,
+      "gioiTinh": "Nam",
+      "email": "phat.tran@example.com",
+      "lop": "IT04",
+      "diemTB": 4.8,
+      "trangThai": "canh_bao_hoc_tap"
+    },
+    {
+      "id": "10",
+      "hoTen": "Bui Kim Chi",
+      "tuoi": 20,
+      "gioiTinh": "Nu",
+      "email": "chi.bui@example.com",
+      "lop": "IT01",
+      "diemTB": 9.4,
+      "trangThai": "dang_hoc"
+    }
+  ]
+}
